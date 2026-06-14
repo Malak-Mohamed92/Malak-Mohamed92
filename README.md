@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="70%">
