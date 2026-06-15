@@ -97,19 +97,19 @@ I enjoy building real-world projects, solving complex problems, and exploring te
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/[YOUR-LINKEDIN](https://www.linkedin.com/in/malakshaheen/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://instagram.com/YOUR-INSTAGRAM">
+<a href="https://instagram.com/[YOUR-INSTAGRAM](https://www.instagram.com/malak_00_mohamed/)">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://facebook.com/YOUR-FACEBOOK">
+<a href="https://facebook.com/[YOUR-FACEBOOK](https://www.facebook.com/malak.mohamed.637610)">
 <img src="https://skillicons.dev/icons?i=facebook"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:malakshaheen092@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
